@@ -1,0 +1,14 @@
+Google Career Cert.
+IT support: 80 hours
+https://www.coursera.org/professional-certificates/google-it-support?utm_source=googleit&utm_medium=institutions&utm_campaign=gwgsite
+
+IT automation with Python: 128 hours
+https://www.coursera.org/professional-certificates/google-it-automation?utm_source=googleit&utm_medium=institutions&utm_campaign=gwgsite
+
+
+IBM/Coursera
+Data Analyst (Excel,SQL,Python): 144 hours
+https://www.coursera.org/professional-certificates/ibm-data-analyst
+
+Data Scientist (SQL, Python): 200 hours
+https://www.coursera.org/professional-certificates/ibm-data-science
